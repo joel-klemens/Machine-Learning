@@ -5,7 +5,11 @@ Data sets from Scikit Learn.
 
 ## Solving Iris data set 
 
+This data sets consists of 3 different types of irises’ (Setosa, Versicolour, and Virginica) petal and sepal length, stored in a 150x4 numpy.ndarray
+The rows being the samples and the columns being: Sepal Length, Sepal Width, Petal Length and Petal Width.
 
+This data set is solved using KNN: 
+- classification alogrithm where an object is classified based on the classification label of its nearest neighbors (euclidean distance between data point and nearest k neighbors, k being an odd number to avoid ties). The classification is determined based on the majority class of neighbors. 
 
 ## Solving Linear Regression 
 
