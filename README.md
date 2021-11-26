@@ -20,7 +20,7 @@ Each iteration we update the weight and the bias (w and b) (example: w = w - a *
 
 
 
-### Resources used for learning 
+## Resources used for learning 
 
 Iris with KNN:
     - https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
